@@ -1,16 +1,27 @@
-# chuck_norris_app
+# Tinder with Chuck Norris
 
-A new Flutter project.
+A Flatter app that shows jokes from <a href="https://api.chucknorris.io/" target="_blank" style="color:#ED1543;">chucknorris.io</a> that change by tapping a button.
 
-## Getting Started
+![Title (800 x 500 px)](https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/head.png)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+In progress
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/1.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/2.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/3.png"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/4.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/5.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/6.png"/></td>
+    </tr>
+  </tbody>
+</table>
