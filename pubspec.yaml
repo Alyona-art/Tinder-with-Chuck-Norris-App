@@ -1,0 +1,60 @@
+name: chuck_norris_app
+description: CPMDWithF Assignment 1 - Tinder with ChuckNorris.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^4.0.6
+  json_annotation: any
+  http: ^0.13.3
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  introduction_screen: ^3.1.6
+  drop_shadow_image: ^0.9.1
+  url_launcher: ^6.1.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.6.1
+  build_runner: ^2.3.3
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.12.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon-710x599.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/images/icon-1024x1024.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/images/icon-1024x1024.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/images/icon-1024x1024.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    
+  fonts:
+    - family: ZillaSlab
+      fonts:
+        - asset: assets/fonts/ZillaSlab-Regular.ttf
+        - asset: assets/fonts/ZillaSlab-Bold.ttf
+          weight: 700
