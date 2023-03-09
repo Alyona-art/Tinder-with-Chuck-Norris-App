@@ -25,3 +25,7 @@ In progress
     </tr>
   </tbody>
 </table>
+
+## APK
+
+<a href="https://drive.google.com/drive/folders/1Kc8N1yZvA9fbxPK6YsPIo-Fqbszjt6KE?usp=share_link" target="_blank" style="color:#ED1543;">Download APK</a>
