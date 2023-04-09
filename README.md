@@ -40,9 +40,9 @@ To separate UI files from logic files I used the following architecture pattern
 <table width="100%">
   <tbody>
     <tr>
-      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/2.png"/></td>
-      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/3.png"/></td>
-      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/5.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/v2_1.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/v2_2.png"/></td>
+      <td width="1%"><img src="https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/v2_3.png"/></td>
     </tr>
   </tbody>
 </table>
