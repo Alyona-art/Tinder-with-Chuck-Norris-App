@@ -23,14 +23,14 @@ The ``Joke()`` class represents the information about the joke from json. I used
 To separate UI files from logic files I used the following architecture pattern
 
 
-└──lib
+``└──lib
    ├──data 
    ├──domain
    │  ├──models
    │  ├──providers
    │  └──repositories
    └──presentation
-      └──components
+      └──components``
       
 
 ## Screenshots
