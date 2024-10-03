@@ -1,6 +1,6 @@
 # Tinder with Chuck Norris
 
-A Flatter app that shows jokes from <a href="https://api.chucknorris.io/" target="_blank" style="color:#ED1543;">chucknorris.io</a> that change by tapping a button.
+A Flutter app that shows jokes from <a href="https://api.chucknorris.io/" target="_blank" style="color:#ED1543;">chucknorris.io</a> that change by tapping a button.
 
 ![Title (800 x 500 px)](https://github.com/Alyona-art/Tinder-with-Chuck-Norris-App/blob/main/screenshots/head.png)
 
